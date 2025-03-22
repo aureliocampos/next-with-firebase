@@ -108,4 +108,9 @@
   a {
     @apply cursor-pointer;
   }
+  main {
+    background: url("/shridhar-thorat-6AKLKt-KmdY-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+  }
 }
